@@ -1,0 +1,259 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EntradaDeDadosJava<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.dados_java.EntradaDeDadosJava",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ProcessamentoDeDadosJava<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.dados_java.ProcessamentoDeDadosJava",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SaidaDeDadosJava<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.dados_java.SaidaDeDadosJava",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EstruturasCondicionaisJava<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.estruturas_condicionais.EstruturasCondicionaisJava",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ExpressaoCondicionalTernaria<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.estruturas_condicionais.ExpressaoCondicionalTernaria",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Swtich<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.estruturas_condicionais.Swtich",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DoWhile<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.estruturas_de_repetição.DoWhile",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EstruturaRepetitivaFor<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.estruturas_de_repetição.EstruturaRepetitivaFor",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EstruturaRepetitivaWhile<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.estruturas_de_repetição.EstruturaRepetitivaWhile",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EstruturaRepetitivaWhileTeste<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.estruturas_de_repetição.EstruturaRepetitivaWhileTeste",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Banco<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.exercicios.main.Banco",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Ex3<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.exercicios.main.Ex3",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio1<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.exercicios.main.Exercicio1",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio2<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.exercicios.main.Exercicio2",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio3<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.exercicios.main.Exercicio3",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ExerciciosJava<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.exercicios.main.ExerciciosJava",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Funçoes<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.funçoes.Funçoes",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FunçoesDeString<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.funçoes.FunçoesDeString",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FunçoesMatematicasJava<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.funçoes.FunçoesMatematicasJava",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FunçoesSintaxe<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.funçoes.FunçoesSintaxe",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Teste1<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.ia.main.Teste1",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OperadorTernario<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.operadores.OperadorTernario",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OperadoresAritimeticos<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.operadores.OperadoresAritimeticos",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OperadoresAtribuiçãoCumulativa<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.operadores.OperadoresAtribuiçãoCumulativa",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Cauculator<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.orientaçao_a_objeto.main.Cauculator",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-POOEx2<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.orientaçao_a_objeto.main.POOEx2",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ProgramaçãoOrientadaAObjetos<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.orientaçao_a_objeto.main.ProgramaçãoOrientadaAObjetos",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Teste<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.orientaçao_a_objeto.main.Teste",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CodigoBinario<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.outros_topicos.CodigoBinario",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-JogoEmJava<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.outros_topicos.JogoEmJava",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SleepJava<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.outros_topicos.SleepJava",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrimeiroPrograma<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.primeiro_programa_e_variaveis.PrimeiroPrograma",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-VariaveisEmJava<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.primeiro_programa_e_variaveis.VariaveisEmJava",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Array2<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.usos_da_memoria.main.Array2",
+            "projectName": "src_26bc8b9b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Arrays<src_26bc8b9b>",
+            "request": "launch",
+            "mainClass": "curso_java.usos_da_memoria.main.Arrays",
+            "projectName": "src_26bc8b9b"
+        }
+    ]
+}
